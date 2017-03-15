@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# keystore information
+JDV_SERVER_KEYSTORE_DEFAULT=keystore.jks
+JDV_SERVER_KEYSTORE_DEFAULT_ALIAS=jboss
+JDV_SERVER_KEYSTORE_DEFAULT_PASSWORD=mykeystorepass
+
+JDV_SERVER_KEYSTORE_JGROUPS=jgroups.jceks
+JDV_SERVER_KEYSTORE_JGROUPS_ALIAS=secret-key
+JDV_SERVER_KEYSTORE_JGROUPS_PASSWORD=password
+
+# user information
+JDV_USER=teiidUser
+JDV_PASSWORD=redhat1!
